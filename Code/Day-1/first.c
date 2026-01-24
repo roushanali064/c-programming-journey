@@ -13,6 +13,10 @@ int main()
     printf("%.2f", b); //.2 mane hole . er por koi ta digit dekhabe
     printf("%c", c);
 
+    int first_input;
+    scanf("%d", &first_input);
+    printf("%d", first_input);
+
     return 0;
 }
 
